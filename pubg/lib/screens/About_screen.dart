@@ -123,9 +123,7 @@ class AboutScreen extends StatelessWidget {
                   size: 16,
                   color: Colors.white70,
                 ),
-                onTap: () {
-                  // TODO: Open Terms & Conditions page / link
-                },
+                onTap: () {},
               ),
             ),
             const SizedBox(height: 30),
